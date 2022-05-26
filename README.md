@@ -8,15 +8,17 @@
 
 
 <h1 align="center">
-  Hello, Everyone!!!
+  Hello, Everyone
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<h3 align="center">
+  Welcome to my GitHub :bouquet:
+</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-### Welcome to my GitHub!!!
 
 ### 👨‍💻: About Me :
 
