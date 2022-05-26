@@ -11,7 +11,7 @@ __Front-end__
 
 __Back-end__
 
-[![My Skills](https://skillicons.dev/icons?i=php,python,spring,java,nodejs,nuxtjs,ocaml,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,python,spring,java,nodejs,nuxtjs,ocaml,laravel,wordpress)](https://skillicons.dev)
 
 
 __Data__
