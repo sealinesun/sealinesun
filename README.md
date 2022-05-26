@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200">
 </div>
 
 
@@ -20,22 +20,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 __Front-end__
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular,vue,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular,vue,react)](https://github.com/sealinesun)
 
 
 __Back-end__
 
-[![My Skills](https://skillicons.dev/icons?i=php,python,spring,java,nodejs,nuxtjs,ocaml,laravel,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,python,spring,java,nodejs,nuxtjs,ocaml,laravel,wordpress)](https://github.com/sealinesun)
 
 
 __Data__
 
-[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,aws,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,aws,mysql)](https://github.com/sealinesun)
 
 
 __Development & Operation__
 
-[![My Skills](https://skillicons.dev/icons?i=git,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,azure)](https://github.com/sealinesun)
 
 ### :fire: My Stats :
 
