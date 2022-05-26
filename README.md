@@ -6,35 +6,35 @@
 ## Hi there 👋 
 ### Welcome to my GitHub!!!
 
-### :woman_technologist: About Me :
+### 👨‍💻: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with extensive experience.
+:trophy: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with extensive experience.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🥇: I have worked as a full stack developer for the past 8 years and  contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 🥈: Technically proficient and analytical problem solver with calm and focused demeanor.
 
-- :zap: In my free time, I solve problems and read new tech articles.
+- 🥉: In my free time, I solve problems and read new tech articles.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-__Front-end__
+- :desktop_computer: __Front-end__ :desktop_computer:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular,vue,react)](https://github.com/sealinesun)
 
 
-__Back-end__
-
+- :keyboard:	__Back-end__ :keyboard:
+ 
 [![My Skills](https://skillicons.dev/icons?i=php,python,spring,java,nodejs,nuxtjs,ocaml,laravel,wordpress)](https://github.com/sealinesun)
 
 
-__Data__
-
+- :dvd: __Data__ :dvd:
+ 
 [![My Skills](https://skillicons.dev/icons?i=redis,mongodb,aws,mysql)](https://github.com/sealinesun)
 
 
-__Development & Operation__
-
+- :abacus: __Development & Operation__ :abacus:
+ 
 [![My Skills](https://skillicons.dev/icons?i=git,azure)](https://github.com/sealinesun)
 
 ### :fire: My Stats :
