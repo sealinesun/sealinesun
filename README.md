@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">
 </div>
 
 
@@ -10,7 +10,7 @@
 
 :trophy: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with extensive experience.
 
-- 🥇: I have worked as a full stack developer for the past 8 years and  contributing to frontend and backend for building web applications.
+- 🥇: I am working as a full stack developer and contributing to frontend and backend for building web applications.
 
 - 🥈: Technically proficient and analytical problem solver with calm and focused demeanor.
 
