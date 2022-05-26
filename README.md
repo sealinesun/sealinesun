@@ -41,16 +41,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <h3>🏆: My Trophy :</h3>
 
 <div align="center">
-  <a href="https://github.com/sealinesun/github-profile-trophy">
+  <a href="https://github.com/sealinesun/">
     <img src="https://github-profile-trophy.vercel.app/?username=sealinesun&theme=onedark&row=1" />
   </a> 
 </div>
 
 <h3>🔥: My Stats :</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sealinesun&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![sealinesun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sealinesun&show_icons=true&theme=tokyonight)](https://github.com/sealinesun/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sealinesun&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sealinesun&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/sealinesun/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sealinesun&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/sealinesun/)
+[![sealinesun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sealinesun&show_icons=true&theme=tokyonight)](https://github.com/sealinesun/)
+
 
 <h3>💻: My Projects :</h3>
 
