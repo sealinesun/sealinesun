@@ -34,26 +34,34 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🥉: In my free time, I solve problems and read new tech articles.
 
-<h3>:hammer_and_wrench:Languages and Tools :</h3> 
+
+<details>
+<summary> <h3>:hammer_and_wrench:Languages and Tools :</h3> </summary>
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular,vue,react,php,python,spring,java,nodejs,nuxtjs,ocaml,laravel,wordpress,redis,mongodb,aws,mysql,git,azure)](https://github.com/sealinesun)
+</details> 
 
-<h3>🏆: My Trophy :</h3>
+<details>
+<summary> <h3>🏆: My Trophy :</h3> </summary>
 
 <div align="center">
   <a href="https://github.com/sealinesun/">
     <img src="https://github-profile-trophy.vercel.app/?username=sealinesun&theme=onedark&row=1" />
   </a> 
 </div>
+</details>
 
-<h3>🔥: My Stats :</h3>
+ <details>
+ <summary> <h3>🔥: My Stats :</h3> </summary>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sealinesun&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/sealinesun/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sealinesun&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/sealinesun/)
 [![sealinesun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sealinesun&show_icons=true&theme=tokyonight)](https://github.com/sealinesun/)
+</details>
 
-
-<h3>💻: My Projects :</h3>
+<details>
+<summary> <h3>💻: My Projects :</h3> </summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sealinesun&repo=b0&theme=vision-friendly-dark)](https://github.com/sealinesun/b0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sealinesun&repo=share-point&theme=vision-friendly-dark)](https://github.com/sealinesun/share-point)
