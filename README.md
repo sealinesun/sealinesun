@@ -21,7 +21,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="360" align="right"  />
 </div>
 
 <h3>👨‍💻: About Me :</h3>
@@ -34,10 +34,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🥉: In my free time, I solve problems and read new tech articles.
 
-
 <details>
 <summary> <h3>:hammer_and_wrench:Languages and Tools :</h3> </summary>
-
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular,vue,react,php,python,spring,java,nodejs,nuxtjs,ocaml,laravel,wordpress,redis,mongodb,aws,mysql,git,azure)](https://github.com/sealinesun)
 </details> 
